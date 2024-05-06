@@ -554,7 +554,6 @@ void InformationDiffusion::NormalizeFieldName(std::string pNodeLongitude, std::s
 			mEdgeField[i] = mEdgeEndNodeName;
 	}
 
-	//Õë¶Ô¼ÓÈ¨ÍøÂç
 	//pEdgeWeightName ---> mWeightName
 	if (mWeightName != "")
 	{
